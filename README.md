@@ -1,2 +1,2 @@
-# flexbox-practice
-a flexbox project just for study purpose
+# project flexbox DIO
+
